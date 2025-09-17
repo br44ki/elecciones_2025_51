@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pp",
+    "name": "Partido Progreso",
+    "description": "Enfocado en el desarrollo económico y social del Perú.",
+    "candidates": [
+      { "name": "Ana Torres", "role": "Presidencia" },
+      { "name": "Luis Ramos", "role": "Vicepresidencia" }
+    ],
+    "plan": "Impulsar la educación, salud y tecnología para todos los peruanos."
+  },
+  {
+    "id": "juventud-unida",
+    "name": "Juventud Unida",
+    "description": "Partido joven que busca la renovación política.",
+    "candidates": [
+      { "name": "Carlos Pérez", "role": "Presidencia" },
+      { "name": "María López", "role": "Vicepresidencia" }
+    ],
+    "plan": "Transparencia, empleo juvenil y protección ambiental."
+  }
+]
